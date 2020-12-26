@@ -1,6 +1,6 @@
 
 # It's a Clone Website.
-![Clone Website](https://attainu.com)
+[Clone Website](https://attainu.com)
 
 using mobile-first framework Bootstrap.
 ## Getting Started
