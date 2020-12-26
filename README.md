@@ -1,8 +1,8 @@
 
 # It's a Clone Website.
-[Clone Website](https://attainu.com)
+[Clone Website Link](https://attainu.com)
 
-using mobile-first framework Bootstrap.
+using mobile-first responsive framework Bootstrap.
 ## Getting Started
 - `npm install` to install all required dependencies.
 - `npm install bootstrap` to add bootstrap into your application.
