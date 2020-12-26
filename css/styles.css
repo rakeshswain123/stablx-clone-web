@@ -1,0 +1,28 @@
+.row-header {
+    margin: 50px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+}
+
+.jumbotron {
+    padding: 10px 40px 70px 10px;
+    margin: 0px auto;
+    background: #878682;
+    color: floralwhite;
+    background-image: url(../pics/music-5705801_1920.jpg);
+    background-size: 1100px ;
+    background-position: center;
+
+}
+.card-header {
+    color:floralwhite;
+    background-color: #e3a90b;
+}
+.footer {
+    background-color:#e0e0da;
+    margin: 0px auto;
+    padding: 85px 0px 5px; }
