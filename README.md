@@ -12,12 +12,12 @@ using mobile-first framework Bootstrap.
 
 ## Screenshots
 ### Web View
-![](screenshot/screenshot1.png)
-![](screenshot/screenshot2.png)
-![](screenshot/screenshot3.png)
-![](screenshot/screenshot4.png)
+![](screenshot/Screenshot1.png)
+![](screenshot/Screenshot2.png)
+![](screenshot/Screenshot3.png)
+![](screenshot/Screenshot4.png)
 ### Mobile View
-![](screenshot/screenshot5.png)
-![](screenshot/screenshot6.png)
-![](screenshot/screenshot7.png)
+![](screenshot/Screenshot5.png)
+![](screenshot/Screenshot6.png)
+![](screenshot/Screenshot7.png)
 
